@@ -18,7 +18,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.title("🤖 AI Resume Screener")
+st.title("🤖 AI Resume Screener - Manish Jain")
 st.caption("Upload resumes, paste a job description, get an AI-ranked, color-coded fit report.")
 
 # ---------- Sidebar ----------
