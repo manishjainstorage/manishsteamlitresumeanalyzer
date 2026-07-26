@@ -5,7 +5,7 @@ from openai import OpenAI
 import pypdf
 import docx
 
-st.set_page_config(page_title="AI Resume Screener", page_icon="🤖", layout="wide")
+st.set_page_config(page_title="AI Resume Screener-manishkk", page_icon="🤖", layout="wide")
 
 st.markdown("""
 <style>
